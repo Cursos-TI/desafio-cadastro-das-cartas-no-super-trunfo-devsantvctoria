@@ -46,19 +46,19 @@ int main() {
     //impressão dos dados carta 1
 
     printf("Atributos Carta 1 \n");
-    printf("Nome da Cidade: %s\n", nomecidade1);
-    printf("Código da Cidade: %s\n", codigocidade1);
-    printf("Área da Cidade: %f\n", area1);
-    printf("PIB da Cidade: %f\n", PIB1);
-    printf("População: %d\n", populacao1);
-    printf("Número de pontos turisticos: %d\n", numerodepontosT1);
+    printf("Nome da Cidade: %s \n", nomecidade1);
+    printf("Código da Cidade: %s \n", codigocidade1);
+    printf("Área da Cidade: %f \n", area1);
+    printf("PIB da Cidade: %f \n", PIB1);
+    printf("População: %d \n", populacao1);
+    printf("Número de pontos turisticos: %d \n", numerodepontosT1);
 
     
     printf("Carta 2! \n");
 
     //entrada e saide de dados carta 2
 
-    printf("Digite o Nome da Cidae: \n");
+    printf("Digite o Nome da Cidade: \n");
     scanf("%s", &nomecidade2);
 
     printf("Digite o código da Cidade: \n");
@@ -70,7 +70,7 @@ int main() {
     printf("Digite o PIB da Cidade: \n");
     scanf("%f", &PIB2);
 
-    printf("Digite o Número da populção: \n");
+    printf("Digite o Número da população: \n");
     scanf("%d", &populacao2);
 
     printf("Digite o Número de pontos turisticos: \n");
@@ -79,12 +79,12 @@ int main() {
     // impressão de dados da carta 2
 
     printf("Atributos Carta 2 \n");
-    printf("Nome da cidade: %s\n", nomecidade2);
-    printf("Código da Cidade: %s\n", codigocidade2);
-    printf("Área da Cidade: %f\n", area2);
-    printf("PIB da Cidade: %f\n", PIB2);
-    printf("População: %d\n", populacao2);
-    printf("Número de pontos turisticos: %d\n", numerodepontosT2);
+    printf("Nome da cidade: %s \n", nomecidade2);
+    printf("Código da Cidade: %s \n", codigocidade2);
+    printf("Área da Cidade: %f \n", area2);
+    printf("PIB da Cidade: %f \n", PIB2);
+    printf("População: %d \n", populacao2);
+    printf("Número de pontos turisticos: %d \n", numerodepontosT2);
 
 
     printf("Cadastro realizado com sucesso! \n");
